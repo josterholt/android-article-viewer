@@ -1,0 +1,1 @@
+Sample android project created in 2011. Displays list of articles and article detail. Data populated by external JSON feed.
